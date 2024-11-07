@@ -1,0 +1,15 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "node crash course",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "author": "Isuru Gimhan",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
